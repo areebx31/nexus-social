@@ -50,11 +50,11 @@ export default function App() {
               loading={loading}
               onViewProfile={viewProfile}
             />
-          )}
+          )};
 
           {page === "explore" && (
             <ExplorePage onViewProfile={viewProfile} />
-          )}
+          )};
 
           {page === "profile" && (
             <ProfilePage
