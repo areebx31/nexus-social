@@ -20,7 +20,7 @@ export const USERS = {
   },
   3: {
     id: 3,
-    name: "James Wu",
+    name: "James Bourne",
     handle: "jwu",
     avatar: "JW",
     bio: "Building things on the internet 🛠️",
