@@ -2,7 +2,7 @@
 export const USERS = {
   1: {
     id: 1,
-    name: "Alex Rivera",
+    name: "John clane",
     handle: "alexr",
     avatar: "AR",
     bio: "Full-stack dev. Coffee addict. ☕",
