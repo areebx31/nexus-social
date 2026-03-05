@@ -5,7 +5,7 @@ fontLink.href =
   "https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap";
 document.head.appendChild(fontLink);
 
-// ─── GLOBAL STYLES ───────────────────────────────────────────────────────────
+// ─── GLOBAL STYLES ─────────────────────────────────────────
 const globalStyles = `
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   :root {
