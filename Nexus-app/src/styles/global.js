@@ -17,7 +17,7 @@ const globalStyles = `
     --accent2: #e05c5c;
     --text: #f0eee8;
     --muted: #7a7a8a;
-    --radius: 14px;
+    --radius: 15px;
   }
   body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-serif; min-height: 100vh; }
   @keyframes fadeUp { from { opacity:0; transform:translateY(18px); } to { opacity:1; transform:translateY(0); } }
